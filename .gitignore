@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+data/
+models/
+submissions/
+*.pkl
+.DS_Store
+wandb/
+runs/

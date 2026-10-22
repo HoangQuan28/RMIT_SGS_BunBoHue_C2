@@ -1,0 +1,8 @@
+{
+  "name": "unisign-forum",
+  "version": "1.0.0",
+  "description": "UniSign Forum - Decentralized Student Communities with TideCloak Security",
+  "main": "main.js",
+  "author": "HoangQuan28",
+  "license": "MIT"
+}
